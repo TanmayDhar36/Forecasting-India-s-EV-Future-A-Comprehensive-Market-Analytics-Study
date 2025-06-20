@@ -1,4 +1,6 @@
 # Forecasting-India-s-EV-Future-A-Comprehensive-Market-Analytics-Study
+![car](https://github.com/user-attachments/assets/e92f0f30-ddaf-4702-8a3a-59cf67952da4)
+
 # About the Project
 
 ## Overview
